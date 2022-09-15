@@ -32,6 +32,12 @@ public class Main {
              }
         }
         System.out.printf("A legtávolabbi origotol mert tavolsag a %d. pont, koordinatai: %s origotol mert tavolsaga: %.3fkl", (legtavolabbiPontIndex+1),pontok[legtavolabbiPontIndex], pontok[legtavolabbiPontIndex].getOrigotolMertTavolsag());
+
+        System.out.println(p1.ketPontTavolsag(p2));
+
+        System.out.println(p1.sikNegyed());
+
+
     }
 
 }
