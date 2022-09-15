@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/1.-Feladat" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/gyakorlas" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ismetles-szarka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java09-13" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/my-first-node-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/teller-ede" vcs="Git" />
   </component>
 </project>
